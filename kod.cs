@@ -1,3 +1,8 @@
 int a=2;
 
-Conslole.Writeline(a);
+Conslole.Writeline(a); //literowka!!!
+
+//Dodaj:
+Console.Readline();
+
+
