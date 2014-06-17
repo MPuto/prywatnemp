@@ -1,0 +1,4 @@
+int zmienna=5;
+int h=10;
+Console.Writeline(h);
+Console.Readline();
