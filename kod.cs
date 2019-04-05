@@ -1,3 +1,5 @@
 int a=2;
 
-Conslole.Writeline(a);
+Console.Writeline(a);
+
+bool ok = true;
